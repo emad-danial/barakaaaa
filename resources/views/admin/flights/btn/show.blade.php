@@ -1,0 +1,1 @@
+<a href="{{ url('flights/'. $id .'/'.$name ) }}" class="btn btn-info"><i class="fa fa-eye"></i></a>

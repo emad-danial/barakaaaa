@@ -1,0 +1,1031 @@
+html {
+    overflow-x: hidden;
+}
+
+.main-menu ul li a:hover,
+.main-menu ul li a:active,
+.main-menu ul li a:focus {
+    text-decoration: none;
+}
+
+.main-menu ul li a {
+    padding: 20px 10px;
+}
+
+.main-menu ul li a:after {
+    height: 2px;
+    bottom: 10px;
+}
+
+.wed-logo {
+    padding: 5px 0px;
+}
+
+.affix {}
+
+.wed-logo a img {
+    width: 130px;
+    padding: 7px 0px;
+}
+
+.ed-mob-menu {
+    height: auto;
+}
+
+.slider-img {
+    height: 100vh !important;
+    width: 100% !important;
+    object-fit: cover;
+}
+
+.block-title-bold {
+    font-size: 3.3rem !important;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: .025em;
+    font-family: 'Raleway_Black';
+    font-weight: bold;
+    text-shadow: 2px 2px 3px #2b2b2b;
+}
+
+.editepc {
+    font-size: 2em !important;
+    color: #21B9F7;
+    width: 100%;
+    font-family: 'Raleway_Medium';
+    text-transform: uppercase;
+    font-size: .7778em;
+    letter-spacing: .2em;
+    margin-top: 2%;
+    font-weight: bold;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    line-height: 39px;
+    text-shadow: 2px 2px 3px #2b2b2b;
+}
+
+.partners {
+    margin-top: -90px;
+}
+
+.MultiCarousel {
+    margin-top: -233px;
+    overflow-x: hidden;
+}
+
+.pad-bot-redu {
+    padding-bottom: 30px;
+}
+
+.spe-title {
+    margin-bottom: 30px;
+}
+
+.events img {
+    width: 80px;
+    padding: 0;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.android {
+    margin-bottom: 0px;
+    margin-right: 5px;
+}
+
+.p2_book .price {
+    float: right;
+    width: 30%;
+    margin-top: -55px !important;
+}
+
+.priceh {
+    color: red;
+    float: right;
+    width: 30%;
+    margin-top: -55px;
+    text-align: right;
+}
+
+.list-inline>li {
+    margin-bottom: 10px;
+}
+
+.step2form {
+    border: 0 !important;
+}
+
+.tips h3 {
+    background: none;
+}
+
+.MultiCarousel .leftLst,
+.MultiCarousel .rightLst {
+    transform: translateY(60px);
+}
+
+.carousel-caption {
+    left: 0% !important;
+}
+
+button.close {
+    position: relative;
+    z-index: 50;
+}
+
+.banner_book_1 li {
+    /* width: 20%; */
+}
+
+.close span {
+    font-size: 33px;
+}
+
+.modal-header .close {
+    margin-top: -24px;
+}
+
+.spe-title p {
+    margin-bottom: 3px;
+    font-size: 23px;
+}
+
+.pricing {
+    color: white;
+    background: #e72a43;
+    height: 70px;
+    padding-left: 30px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.editesize {
+    margin: 10px;
+    background-color: #50718e;
+    font-size: 18px;
+    border-radius: 15px !important;
+    padding-right: 11px;
+    height: 100px;
+}
+
+@media (max-width: 600px) {
+    .spe-title h2 {
+        font-size: 25px;
+        padding: 0 15px;
+        margin-bottom: 10px;
+    }
+
+    .ed-mm-menu {}
+
+    .events table tr td a {
+        font-size: 12px;
+    }
+
+    #myTable th,
+    #myTable td {
+    }
+
+    .spe-title h2 span {
+        font-size: 25px;
+    }
+
+    .to-ho-hotel-con-3 ul li:last-child {
+        padding-top: 0px;
+    }
+
+    .pad-bot-redu {
+        padding-bottom: 0px !important;
+    }
+
+    .tb-space {
+        padding: 40px 0px 10px 0;
+    }
+
+    .spe-title p {
+        padding: 7px 23px;
+        font-size: 16px;
+    }
+
+    .android {
+        min-width: 140px;
+        max-width: 140px;
+        margin-bottom: 0px;
+        margin-right: 2px;
+    }
+
+    .ios {
+        min-width: 143px;
+        max-width: 143px;
+    }
+
+    .slider-img {}
+
+    .block-title-bold {}
+
+    .editepc {}
+
+    .carousel-caption {
+        bottom: 140px !important;
+        left: unset !important;
+        right: unset !important;
+        top: 63px !important;
+    }
+
+    .wed-logo {
+        width: auto;
+    }
+
+    .ed-micon {}
+
+    .ed-mm-left {
+        float: none;
+        width: auto;
+    }
+
+    .ed-mm-right {
+        float: none;
+        width: auto;
+    }
+
+    .ed-mob-menu {
+        height: 81px;
+    }
+
+    .ed-mob-menu-con {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0px 10px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .MultiCarousel {
+        display: none;
+    }
+
+    .carousel-inner {}
+
+    .partners {}
+
+    .spe-title {
+        margin-bottom: 10px;
+    }
+
+    .events table tr td a {
+    }
+
+    .disableHover {
+    }
+
+    .book {
+        margin: 2px 3px;
+    }
+
+    .events-title {
+    }
+
+    table .title {
+        min-width: 170px !important;
+    }
+
+    .foot-mob-app h2 {
+        font-size: 25px;
+        margin: 14px 0;
+    }
+
+    .foot-mob-app ul li {
+        font-size: 15px;
+    }
+
+    .foot-mob-app p {
+        font-size: 13px;
+    }
+
+    .tips h3 {
+        background: none;
+        font-size: 18px;
+    }
+
+    span {
+        font-size: 13px;
+    }
+
+    .tips_left {
+        padding-left: 45px !important;
+        background-size: 30px;
+    }
+
+    .hotels-list {
+        display: flex;
+    }
+
+    .hotels-list li:last-child {
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-end;
+    }
+
+    .footer {
+        padding-bottom: 30px;
+    }
+
+    .foot-spec span {
+        font-size: 17px;
+    }
+
+    .inner_banner h2 span {
+        font-size: 23px !important;
+    }
+
+    .passport-custom-box .flag-div img {
+    }
+
+    .passport-custom-box h4,
+    .passport-custom-box h4 span {
+        font-size: 18px !important;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    .p2_book .price {
+        float: right;
+        width: 100%;
+        margin-top: -30px;
+    }
+
+    /*.inner_banner ul {
+        top: 128px;
+    }*/
+    .inner_banner {
+    padding: 95px 0px 25px 0px;
+    }
+
+    .tour_head h2 {
+        font-size: 27px;
+        margin-top: 15px;
+    }
+
+    .inner_banner h2 {
+        font-size: 22px;
+    }
+
+    .l-info-pack-days ul li p {
+        margin-left: -21px !important;
+    }
+
+    .l-info-pack-plac::after {
+        content: none;
+    }
+
+    .list-inline>li {
+        margin-bottom: 15px;
+    }
+
+    .ed-micon i {}
+
+    .ed-mi-close i {
+        border: 0;
+    }
+
+    .nav-tabs.nav-justified>.active>a {
+        border: 1px solid rgb(78, 183, 243) !important;
+    }
+
+    .tour_head1.hotel-book-room .carousel-control {
+        display: none;
+    }
+
+    .priceh {
+        color: red;
+        float: right;
+        width: 30%;
+        margin-top: -42px;
+    }
+
+    .tab-list__link {
+        display: flex !important;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 10px;
+    }
+
+    .tab-list__link .step {
+        margin-right: 0px !important;
+    }
+
+    .all-hot-bg {
+        /* background: none !important; */
+    }
+
+    .hot-page2-alp-tit h1 {
+    }
+
+    .inner_banner ul {
+        padding: 0px 10px;
+    }
+
+    .inner_banner p {
+        font-size: 16px;
+        line-height: inherit;
+    }
+
+    .radio-circle {
+        /* margin-left: 5.5% !important; */
+    }
+
+    .step2form {
+        border: 0 !important;
+    }
+
+    .tour_head1 h3 {
+        margin: 0 !important;
+        width: 100% !important;
+        margin-bottom: 20px !important;
+    }
+
+    .banner_book_1 li {
+        width: 100%;
+    }
+
+    .pricing {
+        color: white;
+        background: #ff130d;
+        height: 70px;
+        padding-left: 30px;
+        cursor: pointer;
+        font-weight: bold;
+        border-radius: 10px;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 786px) {
+
+    .tips h3 {
+        background: none;
+    }
+
+    .ed-micon i {}
+
+    .ed-micon i {}
+
+    .ed-mi-close i {
+        border: 0;
+    }
+
+    .passport-custom-box .flag-div img {
+    }
+
+    .step2form {
+        border: 0 !important;
+    }
+
+    .priceh {
+        color: red;
+        float: right;
+        width: 40%;
+        margin-top: -46px;
+    }
+
+    .lastlast {
+        margin-left: 2px !important;
+    }
+
+    .tour_head1.hotel-book-room .carousel-control {
+        display: none;
+    }
+
+    .MultiCarousel {
+        display: none;
+    }
+
+    .modal-content {
+        width: 600px !important;
+        margin-left: 0% !important;
+    }
+
+    .custom-room-book .tax {
+        color: #fff;
+        padding-left: 0em;
+        padding-top: 4em;
+    }
+}
+
+@media (max-width: 350px) {
+    .editepc {
+        width: 100%;
+        margin-left: 0px !important;
+        padding: 2px 12px;
+        font-size: 10px !important;
+        height: auto !important;
+        margin-top: 0px !important;
+        line-height: 17px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .lastlast {
+        margin-left: 1% !important;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 349px) {
+    .textincenterperprice {
+        margin-top: -55px !important;
+        margin-left: 126px !important;
+        padding-bottom: 30px !important;
+    }
+
+    .hedite {
+        margin-left: 127px !important;
+        margin-top: -23% !important;
+    }
+
+    .textincenterbtn {
+        padding-left: 105px !important;
+        width: 135% !important;
+        margin-left: -70px !important;
+        margin-top: -6% !important;
+    }
+
+    .personsedite {
+        margin-left: 60px !important;
+        margin-top: -78px !important;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 364px) {
+    .textincenterperprice {
+        margin-top: -55px !important;
+        margin-left: 166px !important;
+        padding-bottom: 30px !important;
+    }
+
+    .hedite {
+        margin-left: 166px !important;
+        margin-top: -15% !important;
+    }
+
+    .textincenterbtn {
+        padding-left: 135px !important;
+        width: 131% !important;
+        margin-left: -72px !important;
+        margin-top: -5% !important;
+    }
+
+    .personsedite {
+        margin-left: 74px !important;
+        margin-top: -78px !important;
+    }
+}
+
+@media (min-width: 365px) and (max-width: 399px) {
+    .textincenterperprice {
+        margin-top: -55px !important;
+        margin-left: 176px !important;
+        padding-bottom: 30px !important;
+    }
+
+    .hedite {
+        margin-left: 176px !important;
+        margin-top: -15% !important;
+    }
+
+    .textincenterbtn {
+        padding-left: 135px !important;
+        width: 131% !important;
+        margin-left: -77px !important;
+        margin-top: -5% !important;
+    }
+
+    .personsedite {
+        margin-left: 79px !important;
+        margin-top: -78px !important;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 450px) {
+    .textincenterbtn {
+        padding-left: 157px !important;
+        width: 131% !important;
+        margin-left: -77px !important;
+        margin-top: -4% !important;
+    }
+
+    .hedite {
+        margin-left: 203px !important;
+        margin-top: -15% !important;
+    }
+
+    .personsedite {
+        margin-left: 93px !important;
+        margin-top: -78px !important;
+    }
+
+    .textincenterperprice {
+        margin-top: -56px !important;
+        margin-left: 203px !important;
+        padding-bottom: 30px !important;
+    }
+}
+
+@media (min-width: 451px) and (max-width: 768px) {
+    .textincenterbtn {
+        padding-left: 282px !important;
+        width: 131% !important;
+        margin-left: -70px !important;
+        margin-top: -4% !important;
+    }
+
+    .hedite {
+        margin-left: 390px !important;
+        margin-top: -10% !important;
+    }
+
+    .personsedite {
+        margin-left: 215px !important;
+        margin-top: -80px !important;
+    }
+
+    .textincenterperprice {
+        margin-top: -50px !important;
+        margin-left: 396px !important;
+        padding-bottom: 30px !important;
+    }
+
+    .editesize {
+        height: 164px !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .textincenterbtn {
+        padding-left: 282px !important;
+        width: 131% !important;
+        margin-left: -70px !important;
+        margin-top: -4% !important;
+    }
+
+    .hedite {
+        margin-left: 390px !important;
+        margin-top: -10% !important;
+    }
+
+    .personsedite {
+        margin-left: 215px !important;
+        margin-top: -80px !important;
+    }
+
+    .textincenterperprice {
+        margin-top: -50px !important;
+        margin-left: 396px !important;
+        padding-bottom: 30px !important;
+    }
+
+    .editesize {
+        height: 164px !important;
+    }
+}
+
+@media (max-width: 399px) and (min-width: 365px) {
+    .hedite {
+        margin-left: 165px !important;
+        margin-top: -17% !important;
+    }
+
+    .textincenterbtn {
+        padding-left: 135px !important;
+        width: 131% !important;
+        margin-left: -72px !important;
+        margin-top: -5% !important;
+    }
+
+    .textincenterperprice {
+        margin-top: -55px !important;
+        margin-left: 167px !important;
+        padding-bottom: 30px !important;
+    }
+}
+
+
+/* abdo responsive */
+
+@media (max-width:1200px) {
+    .container {
+        width: 98% !important;
+    }
+
+    .main-menu ul {
+        padding: 0;
+    }
+
+    .main-menu ul li a {
+        padding: 20px 7px;
+        font-size: 17px;
+    }
+
+    .ed-com-t1-right ul {
+        padding: 0;
+    }
+}
+
+@media (max-width:992px) {
+    .container {
+        width: 100% !important;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .carousel-control {
+        background: unset !important;
+    }
+
+    .slider-img {
+        height: 500px !important;
+    }
+
+
+    .tour_head h2 {
+        font-size: 28px;
+    }
+
+    .hot-page2-alp-con-right-1 > .row {    
+margin: 0;     
+display: grid;     
+grid-template-columns: 1fr 1fr;    
+gap: 20px;
+    }
+
+    .hot-page2-alp-con-right-1 > .row::before {
+        display: none;
+    }
+}
+
+@media (max-width:768px) {
+    .CoverPhoto .block-title-bold {
+        font-size: 26px !important;
+        padding: 0 65px;
+        line-height: inherit;
+
+    }
+
+    .CoverPhoto .editepc {
+        font-size: 20px !important;
+        line-height: inherit;
+        letter-spacing: inherit;
+        padding: 0 65px;
+    }
+
+    .owl-carousel.owl-theme .owl-next {
+        right: -5px;
+    }
+    .owl-carousel.owl-theme .owl-prev {
+        left: -5px;
+    }
+    .events table tr td.title a {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    .events table {
+        display: block;
+        overflow: auto;
+    }
+
+    .events table tr th {
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .place h3 span {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    .banner_book_1 ul {
+        flex-direction: column;
+    }
+
+    .banner_book_1 ul li {
+        font-size: 16px;
+        border-right: 0;
+        border-bottom: 1px solid #314c64;
+        padding: 10px;
+    }
+    .banner_book_1 ul li:last-child {
+        border-bottom: 0;
+        padding: 0;
+    }
+
+    .banner_book_1 ul li a {
+        padding: 12px;
+    }
+
+    .test2 {
+        margin: 0 !important;
+        width: 65px !important;
+        height: 65px !important;
+    }
+
+    .tour_head h2 {
+        font-size: 26px;
+    }
+
+    .tour_head1 h2 {
+        font-size: 26px;
+    }
+
+    .pd-sm {
+        padding-top: 20px;
+    }
+
+    .table-custom {
+        display: block;
+        overflow: auto;
+    }
+
+    .mt-50 {
+        margin-top: 10px;
+    }
+
+    .grid-div {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+    .makkahh {
+        padding: 15px 10px;
+    }
+
+    .inner_banner ul {
+        float: unset;
+        padding: 0;       
+    margin-bottom: 10px;
+    }
+    .inner_banner p {
+        clear: both;
+    }
+
+    .hot-page2-alp-ri-p2 {
+        padding: 15px 0;
+    }
+
+}
+
+@media (max-width:576px) {
+    .CoverPhoto {
+        top: 95px;
+        margin: 0;
+    }
+
+    .CoverPhoto .block-title-bold {
+        font-size: 20px !important;
+        padding: 0 50px;
+    }
+
+    .CoverPhoto .editepc {
+        font-size: 18px !important;
+        padding: 0 50px;
+    }
+
+    .slider-img {
+        height: 400px !important;
+    }
+
+    .partners img {
+        height: 60px;
+    }
+
+    .partners {
+        margin-top: -80px;
+    }
+
+    .place h3 span {
+        display: block;
+    }
+
+    .tourb2-ab-p1 {
+        margin-top: 10px;
+    }
+
+    .featur {
+        flex-direction: column;
+    }
+
+    .p2_1 img {
+        height: 200px !important;
+    }
+
+    .img-slider {
+        height: 310px !important;
+    }
+
+    .tour_head h2 {
+        font-size: 21px;
+    }
+
+    .tour_head1 h2 {
+        font-size: 21px;
+    }
+
+    .tour_head1 h3 {
+        font-size: 20px;
+    }    
+
+
+    .dir-rat {
+        padding: 15px;
+        margin-top: 35px;
+    }
+
+    .dir-rat-inn.row {
+        margin-right: -15px;
+        margin-left: -15px;
+    }
+
+    .send-inq {
+        padding: 8px 20px;
+        font-size: 14px;
+    }
+
+    .hot-page2-alp-con-right-1 > .row {       
+        grid-template-columns: 1fr;    
+        gap: 15px;
+            }
+
+            .tr-regi-form form {
+                padding: 15px 5px;
+            }
+
+            .tr-regi-form h4 {
+                font-size: 28px;
+            }
+
+            .tr-regi-form input[type="submit"] {
+                font-size: 15px !important;
+            }
+
+            .btn-large {
+                height: 45px;
+                line-height: 45px;
+            }
+
+
+            .con-page {
+                padding-bottom: 70px;
+            }
+
+}
+
+@media (max-width:400px) {
+    .slider-img {
+        height: 325px !important;
+    }
+
+    .partners img {
+        height: 45px;
+    }
+
+    .partners {
+        margin-top: -65px;
+    }
+
+    .CoverPhoto {
+        top: 70px;
+    }
+
+    .CoverPhoto .block-title-bold {
+        font-size: 18px !important;
+        padding: 0 30px;
+    }
+
+    .CoverPhoto .editepc {
+        font-size: 16px !important;
+        padding: 0 30px;
+    }
+
+    .foot-mob-app ul {
+        margin-bottom: 15px;
+    }
+
+    .foot-mob-app a {
+        display: inline-block;
+    }
+
+    .foot-mob-app a img{
+        min-width: unset;
+        min-height: unset;
+        height: 40px;
+        max-width: unset; 
+    }
+
+    .img-slider {
+        height: 220px !important;
+    }
+}

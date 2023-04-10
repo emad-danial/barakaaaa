@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://barakatravel.net/about-us</loc>
+        <lastmod>2023-04-08T23:35:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://barakatravel.net/contact_us</loc>
+        <lastmod>2023-04-08T23:35:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://barakatravel.net/eVisa</loc>
+        <lastmod>2023-04-08T23:35:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://barakatravel.net/flights</loc>
+        <lastmod>2023-04-08T23:35:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://barakatravel.net/flights/6/JFK TO CAIRO</loc>
+        <lastmod>2023-04-08T23:35:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://barakatravel.net/hotels</loc>
+        <lastmod>2023-04-08T23:35:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://barakatravel.net/hotels/20/Makkah Clock Royal Tower, A Fairmont Hotel</loc>
+        <lastmod>2023-04-08T23:35:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://barakatravel.net/hotels/23/Anwar Al Madinah Mövenpick, Al Madinah,</loc>
+        <lastmod>2023-04-08T23:35:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://barakatravel.net/umrah-package-details/1/Nov Umrah From 18-26 Nov 22</loc>
+        <lastmod>2023-04-08T23:35:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://barakatravel.net/umrah-package-details/2/SEP Umrah From 14-24 SEP 22</loc>
+        <lastmod>2023-04-08T23:35:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://barakatravel.net/umrah-package-details/8/Dec Umrah From 24-01 Jan 23</loc>
+        <lastmod>2023-04-08T23:35:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://barakatravel.net/umrah-package-details/9/Stop Over Cairo Culture and Islamic Tours  From Jan 01-06 -23</loc>
+        <lastmod>2023-04-08T23:35:22+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
